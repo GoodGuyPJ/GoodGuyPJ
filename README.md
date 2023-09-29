@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJyaHd2eXF6eTg5ZDRrYWgzNmpqYzIxOTQzZHUxbXhjNWJma2ZuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif">
 
 
-
+Certifications: https://github.com/GoodGuyPJ/InternshipCertification
 
 - 🔭 I’m currently working on **NFT MarketPlace Full Stack**
 
