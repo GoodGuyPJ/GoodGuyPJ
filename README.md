@@ -76,3 +76,9 @@
 Feel free to reach out if you'd like to collaborate or chat about tech, projects, or ideas. Let's build something amazing together! 🚀
 
 Certifications: https://github.com/GoodGuyPJ/InternshipCertification
+ <br clear="both">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="github-snake" />
+</picture>
