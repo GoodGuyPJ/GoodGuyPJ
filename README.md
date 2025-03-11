@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushkar Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
- I'm a passionate Full-Stack Developer and Software Engineer who loves creating interactive web applications and scalable backend systems. Currently, I'm honing my skills at SuMoDigitech Pvt. Ltd. while constantly exploring new technologies.
+ I'm a passionate Full-Stack Developer and Software Engineer who loves creating interactive web applications and scalable backend systems. 
 
 ## 🔥 About Me
 
