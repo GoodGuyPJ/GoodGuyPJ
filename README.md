@@ -1,84 +1,82 @@
-<h1 align="center">Hi 👋, I'm Pushkar Kumar</h1>
-<h3 align="center">A passionate Software Engineer</h3>
- I'm a passionate Full-Stack Developer and Software Engineer who loves creating interactive web applications and scalable backend systems. 
+<h1 align="center">Hi there, I'm Pushkar Kumar 👋</h1>
 
-## 🔥 About Me
+<h3 align="center">Software Engineer | Full-Stack Developer | Building scalable enterprise applications</h3>
 
-- 🎓 **Student & Engineer:** Pursuing Electrical and Electronics Engineering at ABES Engineering College, affiliated with Dr. A.P.J. Abdul Kalam Technical University.
-- 💻 **Full-Stack Developer:** Experienced in building robust and dynamic applications using modern web technologies.
-- 🚀 **Innovator:** Passionate about solving real-world problems through code and technology.
-
-## 🔧 Technical Skills
-
-**Languages:**
-
-- C/C++
-- JavaScript
-
-**Frontend:**
-
-- HTML
-- CSS
-- React.js
-
-**Backend:**
-
-- Node.js
-- Express.js
-
-**Databases & Tools:**
-
-- MongoDB
-- Git
-
-## 💼 Experience
-
-- **Software Engineer @ SuMoDigitech Pvt. Ltd. (SAP)**  
-  _Sept 2024 – Present_
-  - Contributed to major projects for Mahindra & Mahindra by leveraging SAP solutions and industry best practices.
-- **Software Engineer @ Deuglo Infotech System Pvt. Ltd.**  
-  _Nov 2023 – Aug 2024_
-  - Developed responsive client-based websites using HTML, CSS, JavaScript, React, and MySQL.
-- **Web Developer Intern (Full Stack) @ LAMYA Meta**  
-  _Sep 2022 – Mar 2023_
-  - Built and integrated interactive e-commerce features using React.js, improving user interaction by 30%.
-  - Developed a secure token-based payment system for NFTs via the Tatum API.
-
-## 🚀 Projects
-
-- **[Real-Time Visual Whiteboard App](#)**  
-  _Tech Stack:_ React.js, Next.js 14, Tailwind CSS
-  - Developed a collaborative whiteboard application featuring real-time updates, shape drawing, sticky notes, and more.
-- **[Real Estate App](#)**  
-  _Tech Stack:_ React, Node.js, Prisma, JWT, Cookies, Context API, React Router Dom
-  - Built a full-stack application with secure authentication and real-time chat functionality using Socket.io.
-
-## 📈 GitHub Stats
-
-[![Pushkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoodGuyPJ&show_icons=true&theme=radical)](https://github.com/GoodGuyPJ)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoodGuyPJ&layout=compact&theme=radical)](https://github.com/GoodGuyPJ)
-
-## 🏆 Achievements & Certifications
-
-- Ranked **#62** out of over 2.14 Lakh candidates in the All-India NCAT Aptitude Test.
-- Certified in _"Web Development: HTML, CSS, and JavaScript for web developers"_.
-
-## 📫 Let's Connect
-
-- **Email:** [kpushkar47@gmail.com](mailto:kpushkar47@gmail.com)
-- **LinkedIn:** [Pushkar Kumar Jha](https://www.linkedin.com/in/pushkarkumar27/)
-- **Portfolio:** [Pushkar Portfolio](https://pushkar-protfolio.vercel.app/)
-- **GitHub:** [GoodGuyPJ](https://github.com/GoodGuyPJ/)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kpushkar47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-Feel free to reach out if you'd like to collaborate or chat about tech, projects, or ideas. Let's build something amazing together! 🚀
+### 🚀 About Me
 
-Certifications: https://github.com/GoodGuyPJ/InternshipCertification
- <br clear="both">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake-dark.svg" />
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="github-snake" />
-</picture>
+- 🔭 I'm a **Software Engineer** with 2+ years of experience building full-stack applications — from backend services and REST APIs to responsive, production-grade UIs.
+- 💼 Currently building scalable enterprise solutions across the **SAP BTP/CAP ecosystem** and modern **JavaScript/Node.js** stacks.
+- 🌱 Sharpening my **Data Structures, Algorithms, and System Design** skills — actively preparing for **SDE roles at top-tier product companies**.
+- 🎯 Goal: work on large-scale systems at a top MNC and keep raising my engineering bar.
+- 📫 Reach me at **kpushkar47@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Fundamentals**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**SAP Ecosystem**
+![SAP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/HANA_Cloud-003057?style=flat-square&logo=sap&logoColor=white)
+SAP CAP · SAP Fiori/UI5
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+### 💡 What I've Built
+
+- **Enterprise Dashboard (SAP UI5 + Node.js + HANA DB)** — Designed and shipped a client-facing dashboard from scratch to production, improving process efficiency by 30% through an optimized UI and backend.
+- **SourceList Portal** — Built a SAP Fiori-based UI/UX on SAP BTP, optimizing CAP services and boosting system performance by 40%.
+- **Infra Service Request Workflow** — Migrated a legacy workflow to a modern CAP-based architecture with automated approvals, cutting response time by 35%.
+- **React Web Applications** — Shipped 5 responsive apps with React and MySQL, resolving 100+ accessibility issues and cutting load times by 40%.
+
+---
+
+### 📌 Featured Projects
+
+- **[Project Name 1](https://github.com/your-username/repo-1)** — One-line description of what it does and the problem it solves.
+  `Tech: React · Node.js · MongoDB`
+
+- **[Project Name 2](https://github.com/your-username/repo-2)** — One-line description of what it does and the problem it solves.
+  `Tech: Express · SAP CAP · HANA Cloud`
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Ranked **#62 out of 2.14 lakh candidates** — All-India NCAT Aptitude Test
+- 📜 Certified in Web Development (HTML, CSS, JavaScript) — **Johns Hopkins University**
+- 📜 HackerRank Certification (Intermediate) — Algorithmic Problem-Solving
+
+---
+
+<p align="center"><i>Open to SDE opportunities — let's connect and build something great.</i></p>
