@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Building scalable enterprise applications</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/pushkarkumar27/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kpushkar47@gmail.com">
@@ -52,22 +52,23 @@ SAP CAP · SAP Fiori/UI5
 
 ---
 
-### 💡 What I've Built
+### 💼 Professional Highlights
 
-- **Enterprise Dashboard (SAP UI5 + Node.js + HANA DB)** — Designed and shipped a client-facing dashboard from scratch to production, improving process efficiency by 30% through an optimized UI and backend.
-- **SourceList Portal** — Built a SAP Fiori-based UI/UX on SAP BTP, optimizing CAP services and boosting system performance by 40%.
-- **Infra Service Request Workflow** — Migrated a legacy workflow to a modern CAP-based architecture with automated approvals, cutting response time by 35%.
-- **React Web Applications** — Shipped 5 responsive apps with React and MySQL, resolving 100+ accessibility issues and cutting load times by 40%.
+| Project | Impact |
+|---|---|
+| **Enterprise Dashboard** — SAP UI5, Node.js, HANA DB | Designed and shipped a client-facing dashboard from scratch to production, improving process efficiency by **30%** |
+| **SourceList Portal** — SAP Fiori, SAP BTP, CAP | Optimized CAP services and ABAP integrations, boosting system performance by **40%** |
+| **Infra Service Request Workflow** — SAP CAP, Fiori | Migrated a legacy workflow to a modern CAP-based architecture, cutting response time by **35%** |
+| **React Web Applications** — React, MySQL | Shipped 5 responsive apps, resolved 100+ accessibility issues, cut load times by **40%** |
 
 ---
 
-### 📌 Featured Projects
+### 📌 Personal Projects
 
-- **[Project Name 1](https://github.com/your-username/repo-1)** — One-line description of what it does and the problem it solves.
-  `Tech: React · Node.js · MongoDB`
-
-- **[Project Name 2](https://github.com/your-username/repo-2)** — One-line description of what it does and the problem it solves.
-  `Tech: Express · SAP CAP · HANA Cloud`
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Project Name 1](https://github.com/your-username/repo-1)** | Short description of the problem it solves | React · Node.js · MongoDB |
+| **[Project Name 2](https://github.com/your-username/repo-2)** | Short description of the problem it solves | Express · SAP CAP · HANA Cloud |
 
 ---
 
